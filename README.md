@@ -18,7 +18,22 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
 
+
+a = input()
+b = input()
+temp = b
+b = a
+a = temp
+print("After swapping:")
+print("First value:", a)
+print("Second value:", b)
+
+```
+
+## OUTPUT:
+![image](https://github.com/user-attachments/assets/7a51e448-c5a3-4391-b1e7-a59a0db5a12f)
 
 
 ## RESULT:
